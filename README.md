@@ -6,7 +6,7 @@ v2021:
 
   You have to download it together with the "bin" folder for it to work.
   
-  ![gss_ss_01](https://github.com/gokmavisianka/GroundStationSoftware/assets/85447383/1c3b3fc2-abb3-4fbe-8154-7ab79aa16a5a)
+  ![gss_ss_01](https://github.com/gokmavisianka/GroundStationSoftware/assets/85447383/58169c69-f1fe-4c48-b04a-1874a7a2165e)
 
   ![gss_old_gif](https://github.com/gokmavisianka/GroundStationSoftware_old/assets/85447383/11f2d8c9-59cf-4f1f-840c-927f766ef8e3)
 
