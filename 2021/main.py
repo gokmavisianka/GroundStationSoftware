@@ -23,7 +23,7 @@ def evaloc(row, column, width=1, height=1, case=0, ax=0, ay=0, aw=0, ah=0):  # �
 class MainWindow(QMainWindow):  # Yer istasyonu yazılımımızın ilk aşaması.
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Atınç Roket Takımı Yer İstasyonu Yazılımı")
+        self.setWindowTitle("Tenay Roket Takımı Yer İstasyonu Yazılımı")
         self.setStyleSheet("background-color:rgb(70,105,145);")
         self.stopThreads = False
         self.setupUi()
